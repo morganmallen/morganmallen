@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Morgan!
 
+I'm a new Full-Stack developer based in Utah.
+
+I have learned **Javascript, HTML, CSS, React.js**, etc. and continue to learn more and improve.
+
+💬 Ask me about Manchester United to discuss the season.
+
+LinkedIn: www.linkedin.com/in/morganmakotoallen
 <!--
 **morganmallen/morganmallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
