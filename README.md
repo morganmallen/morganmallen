@@ -1,10 +1,8 @@
 ### Hi, I'm Morgan!
 
-I'm a new Full-Stack developer based in Utah.
+I'm a software development student at BYU-Idaho, set to graduate in 2025, with a strong passion for frontend development. I am based in Mapleton, Utah. I love cooking new recipes and watching any Manchester United game I possibly can.
 
-I have learned **Javascript, HTML, CSS, React.js**, etc. and continue to learn more and improve.
-
-💬 Ask me about Manchester United to discuss the season.
+I have hands-on experience with a variety of technologies, including JavaScript, React.js, HTML, CSS, Tailwind CSS, Redux.js, Node.js, GraphQL, and PostgreSQL. My focus is on building clean, responsive, and user-friendly web applications, and I enjoy working with modern tools to create efficient and scalable solutions. As I prepare to enter the professional world, I'm excited to apply my skills in frontend development and continue learning and growing in this dynamic field.
 
 LinkedIn: www.linkedin.com/in/morganmakotoallen
 <!--
